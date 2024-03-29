@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: GKD 1+X Web证书培训 # the main title
+title: 1+X Web证书培训 # the main title
 
 tagline: 深入Web技术的世界 # it will display as the sub-title
 
@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://hingsli.github.io/1x-web-certificate-gkd"
+url: "https://hingsli.github.io"
 
 github:
   username: github_username # change to your github username
@@ -126,7 +126,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/1x-web-certificate-gkd"
 
 # ------------ The following options are not recommended to be modified ------------------
 
