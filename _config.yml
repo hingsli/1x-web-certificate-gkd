@@ -6,24 +6,24 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: zh-CN
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: GKD 1+X Web证书培训 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 深入Web技术的世界 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  这是一个专门为广州科技职业技术大学（GKD）的1+XWeb证书培训课程设计的网站。它旨在提供课程资料、教学资源和相关技术文章，帮助学生深入理解和掌握前端开发的各个方面。
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://hingsli.github.io/1x-web-certificate-gkd"
 
 github:
   username: github_username # change to your github username
