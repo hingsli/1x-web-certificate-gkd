@@ -226,7 +226,7 @@ categories: php
 
 ![Screenshot 2024-03-30 at 20.06.47.png](assets/php-fundamentals-2/Screenshot_2024-03-30_at_20.06.47.png)
 
-## 2. 使用`**include**`引入PHP代码
+## 2. 使用**`include`**引入PHP代码
 
 ### **1. 修改文件扩展名**
 
