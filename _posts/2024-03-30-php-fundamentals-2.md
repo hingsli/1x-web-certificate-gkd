@@ -306,9 +306,7 @@ categories: php
     
     ![Screenshot 2024-03-30 at 21.00.41.png](assets/php-fundamentals-2/Screenshot_2024-03-30_at_21.00.41.png)
     
-
-<aside>
-💡 在编写PHP连接数据库的代码前，我们要先在MariaDB 中创建一个用户名、一个名为 **`review-app`** 的数据库，以及一个包含指定字段的表 **`review`。**
+💡 在编写PHP连接数据库的代码前，我们要先在MariaDB 中创建一个用户名、一个名为 **`review-app`** 的数据库，以及一个包含指定字段的表 **`review`**。
 
 1. 创建用户名和赋予权限等
 
@@ -354,7 +352,6 @@ INSERT INTO review (name, email, course_name, content) VALUES
 ('赵六', 'zhaoliu@example.com', 'Python编程', '作为一个编程新手，这门课程帮助我打下了坚实的Python基础。');
 ```
 
-</aside>
 
 ### **2. 编写`db.php`的内容**
 
