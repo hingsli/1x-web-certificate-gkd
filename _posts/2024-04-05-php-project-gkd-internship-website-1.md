@@ -9,7 +9,6 @@ categories: php
 
 ## 0. 获得静态网页模版
 
-[gkd-internship-website-theme.zip](/assets/php-project-gkd-internship-website-1/gkd-internship-website-theme.zip)
 
 ## **1. 创建并测试PHP文件**
 
