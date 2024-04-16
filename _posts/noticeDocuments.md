@@ -24,3 +24,12 @@ categories: php
 https://github.com/hingsli/1x-web-certificate-gkd/blob/main/assets/xxx/xxx.png?raw=true
 ```
 
+# 推荐软件
+
+## 这里的话,我想推荐一下一个很好用的Markdown写作工具Typora
+
+> 这个的话可以让你很直观看到你的Markdown文件的每一步的效果
+>
+> 如果对Markdown不是很熟悉的,可以试着用下这个,但是这个软件是收费的,如果有必要可以买下这个,是永久授权的.当然VSCode也是可以的或者是开源的NotePad++.
+>
+> 然后前端必备工具: **Snipaste**,一个截图工具一样推荐,可以用免费版,功能没有问题,但是我自己使用的是Pro版本
